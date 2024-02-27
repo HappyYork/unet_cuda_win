@@ -1,0 +1,108 @@
+[epoch: 11600]
+train_loss: 0.1931
+train_correct:0.8042
+test_correct:0.7843
+
+
+[epoch: 11650]
+train_loss: 0.1869
+train_correct:0.8010
+test_correct:0.7780
+
+
+[epoch: 11700]
+train_loss: 0.1857
+train_correct:0.8118
+test_correct:0.7818
+
+
+[epoch: 11750]
+train_loss: 0.1794
+train_correct:0.8068
+test_correct:0.7827
+
+
+[epoch: 11800]
+train_loss: 0.1703
+train_correct:0.8089
+test_correct:0.7736
+
+
+[epoch: 11850]
+train_loss: 0.1750
+train_correct:0.8069
+test_correct:0.7786
+
+
+[epoch: 11900]
+train_loss: 0.1660
+train_correct:0.8128
+test_correct:0.7835
+
+
+[epoch: 11950]
+train_loss: 0.1586
+train_correct:0.8204
+test_correct:0.7872
+
+
+[epoch: 12000]
+train_loss: 0.1667
+train_correct:0.8042
+test_correct:0.7840
+
+
+[epoch: 12050]
+train_loss: 0.1677
+train_correct:0.8083
+test_correct:0.7804
+
+
+[epoch: 12100]
+train_loss: 0.1558
+train_correct:0.8149
+test_correct:0.7841
+
+
+[epoch: 12150]
+train_loss: 0.1607
+train_correct:0.8016
+test_correct:0.7799
+
+
+[epoch: 12200]
+train_loss: 0.1543
+train_correct:0.8110
+test_correct:0.7827
+
+
+[epoch: 12250]
+train_loss: 0.1553
+train_correct:0.8140
+test_correct:0.7832
+
+
+[epoch: 12300]
+train_loss: 0.1508
+train_correct:0.8048
+test_correct:0.7744
+
+
+[epoch: 12350]
+train_loss: 0.1437
+train_correct:0.8150
+test_correct:0.7892
+
+
+[epoch: 12400]
+train_loss: 0.1453
+train_correct:0.8106
+test_correct:0.7805
+
+
+[epoch: 12450]
+train_loss: 0.1518
+train_correct:0.8110
+test_correct:0.7848
+
+

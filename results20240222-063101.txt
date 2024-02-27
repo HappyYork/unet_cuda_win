@@ -1,0 +1,30 @@
+[epoch: 11350]
+train_loss: 0.2336
+train_correct:0.7912
+test_correct:0.7773
+
+
+[epoch: 11400]
+train_loss: 0.2172
+train_correct:0.7960
+test_correct:0.7792
+
+
+[epoch: 11450]
+train_loss: 0.2077
+train_correct:0.7970
+test_correct:0.7845
+
+
+[epoch: 11500]
+train_loss: 0.2006
+train_correct:0.8041
+test_correct:0.7779
+
+
+[epoch: 11550]
+train_loss: 0.1923
+train_correct:0.7963
+test_correct:0.7761
+
+
